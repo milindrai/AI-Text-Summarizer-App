@@ -1,2 +1,2 @@
-Welcome to the AI Text Summarizer App!
+                                             Welcome to the AI Text Summarizer App!
 With our AI Text Summarizer App, you can save time and effort by quickly generating concise summaries of long texts. Whether you're dealing with lengthy articles, research papers, or any other type of document, our app harnesses the power of Artificial Intelligence APIs to provide you with accurate and efficient summaries. Say goodbye to manually sifting through pages of content and let our app streamline the summarization process for you. Try it out today and experience the convenience of instant text summarization!
